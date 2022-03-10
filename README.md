@@ -6,9 +6,8 @@
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Cole Hopkins](https://usabilityengineering.github.io/ux-portfolio-Cole-Hop/)** - Cole conducted Research Gathering and helped work on report
+* **[Adrian Arredondo](https://usabilityengineering.github.io/ux-portfolio-adrian015/)** - Adrian conducted Research Gathering and helped work on report
 
 # User-Centered Design Artifacts
  
