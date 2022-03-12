@@ -19,9 +19,11 @@ Questionnaire - Because we used Questionnaire, we were able to collect a lot of 
 
 # Personas
 
-[Julia](./assets/Julia_Fernando.png)
-[Ben](./assets/Ben_Smith.png)
-[Phillip](./assets/Phillip_Strauss.png)
+<p float="left">
+  <img src="../assets/clock_right.jpg" width="700" />
+  <img src="../assets/clock_front.jpg" width="700" /> 
+  <img src="../assets/clock_left.jpg" width="700" />
+</p>
 
 # Scenarios
 - Someone who is doing outdoor activities in the wilderness and needs to be able to let others know where they are in case of an emergency (Ben Smith)
