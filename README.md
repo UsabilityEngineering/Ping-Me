@@ -1,5 +1,3 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
 # Ping-Me
 
 This app's envision is to allow people to connect with one another and share there geo-location from around the world. It's goal is to bring people together
@@ -35,10 +33,7 @@ especially in a life or death situation that is out of your control.
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* nothing as of now
 
 [Full phase 2 report](design/)
 
@@ -46,9 +41,6 @@ especially in a life or death situation that is out of your control.
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* nothing as of now
 
 [Full phase 3 report](evaluation/)
