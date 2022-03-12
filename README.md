@@ -1,8 +1,11 @@
 !!! NOTE: Delete all parts of this file surrounded by three exclamation marks and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
-# !!!Project Name!!!
+# Ping-Me
 
-!!!Brief introduction to the project's vision!!!
+This app's envision is to allow people to connect with one another and share there geo-location from around the world. It's goal is to bring people together
+by letting them meet up in real life without having to worry about the directions to get there. Your just one button click away from telling your friends where
+you are, and what you are up too. Ping-Me also has the goal of being a helpful tool for people who want their close ones to know where they are in case of an accident,
+especially in a life or death situation that is out of your control.
 
 ## UX Team Members
 
@@ -12,7 +15,7 @@
 # User-Centered Design Artifacts
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
-* [Personas and Scenarios](#) - Coming soon!
+* [Personas and Scenarios](personas.pdf)
 * [Wireframes](#) - Coming soon!
 * [Prototype](#) - Coming soon!
 
@@ -20,10 +23,11 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Built user stories to determine who are users are 
+* Estimated UX priorities to make sure we address users needs
+* Understanding the problem space to develop a meaningful approach to the issue at hand
+* Developing research questions for a survey to get real user data to help guide our development and understand what is important to the users
+* Building personas to give us a way to understand possible users and their needs
 
 [Full phase 1 report](requirements/)
 
