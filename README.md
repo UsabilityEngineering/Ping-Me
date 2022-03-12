@@ -25,6 +25,9 @@ especially in a life or death situation that is out of your control.
 * Understanding the problem space to develop a meaningful approach to the issue at hand
 * Developing research questions for a survey to get real user data to help guide our development and understand what is important to the users
 * Building personas to give us a way to understand possible users and their needs
+* It is more important to people to track the location of others rather than share their own location
+* People would prefer to add others using a phone number rather than a friend system or usercode
+* Most people chose that they would want to share the location of themselves and others in urban environments rather than rural areas
 
 [Full phase 1 report](requirements/)
 
