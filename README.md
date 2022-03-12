@@ -11,8 +11,7 @@ especially in a life or death situation that is out of your control.
 * **[Adrian Arredondo](https://usabilityengineering.github.io/ux-portfolio-adrian015/)** - Adrian conducted Research Gathering and helped work on report
 
 # User-Centered Design Artifacts
- 
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
+
 * [Personas and Scenarios](personas.pdf)
 * [Wireframes](#) - Coming soon!
 * [Prototype](#) - Coming soon!
