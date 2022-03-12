@@ -20,9 +20,9 @@ Questionnaire - Because we used Questionnaire, we were able to collect a lot of 
 # Personas
 
 <p float="left">
-  <img src="../assets/clock_right.jpg" width="700" />
-  <img src="../assets/clock_front.jpg" width="700" /> 
-  <img src="../assets/clock_left.jpg" width="700" />
+  <img src="./assets/Julia_Fernando.png" width="700" />
+  <img src="../assets/Ben_Smith.png" width="700" /> 
+  <img src="../assets/Phillip_Strauss.png" width="700" />
 </p>
 
 # Scenarios
