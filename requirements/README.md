@@ -2,8 +2,8 @@
 [PDF of Personas and Scenarios](../personas.pdf)
 
 # Phase I: Requirements Gathering
-##Ping Me Usability Team
-##Adrian Arredondo and Cole Hopkins
+## Ping Me Usability Team
+## Adrian Arredondo and Cole Hopkins
 
 # Methods 
 Questionnaire (N = 7)  - We only used this method because it was the easiest way to get responses, and other methods such as focus groups and interviews would have been hard to get people who would be willing to participate.
