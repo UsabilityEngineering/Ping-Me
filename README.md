@@ -7,8 +7,8 @@ especially in a life or death situation that is out of your control.
 
 ## UX Team Members
 
-* **[Cole Hopkins](https://usabilityengineering.github.io/ux-portfolio-Cole-Hop/)** - Cole conducted Research Gathering and helped work on report
-* **[Adrian Arredondo](https://usabilityengineering.github.io/ux-portfolio-adrian015/)** - Adrian conducted Research Gathering and helped work on report
+* **[Cole Hopkins](https://usabilityengineering.github.io/ux-portfolio-Cole-Hop/)** - Cole conducted Research Gathering and Built Personas, and designed wireframe and prototype
+* **[Adrian Arredondo](https://usabilityengineering.github.io/ux-portfolio-adrian015/)** - Adrian conducted Research Gathering and Built Scenarios, and designed wireframe and prototype
 
 # User-Centered Design Artifacts
 
@@ -35,7 +35,11 @@ especially in a life or death situation that is out of your control.
 
 **Executive Summary**
 
-* nothing as of now
+* Used user research data, along with personas and scenarios, to develop wireframes of the application which adheres to researched user design
+* From these wireframes, built a prototype draft which allows for a flow of the application to control and test functionality and efficiency for the user and their goals
+* Our user research indicated that people wanted to have full control over when and how often they share their location with others. Given this feedback, we gave users the ability to share location with specific users, toggle location sharing on and off, and letting users decide how often they want their position updated.
+* Users wanted a decent amount of information about friends' positions and the last time they updated their location. Given this, we created markers on google maps, showing location in real time with a timestamp displaying their last ping.
+* Users wanted a way to request someone's position from the application, allowing people to communicate through this function. Taking our users feedback, we implemented this as a feature, so that people can be notified by others that they want to know where they are, or share with them their location.
 
 [Full phase 2 report](design/)
 
