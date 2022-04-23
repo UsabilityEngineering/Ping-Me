@@ -1,6 +1,6 @@
 # Interaction Design
 
-### For our wireframe, we made the following pages with user design and experience in focus, delivering on our goals given to us from our results of the requirment gathering phase, and the personas and scenarios we constructed
+For our wireframe, we made the following pages with user design and experience in focus, delivering on our goals given to us from our results of the requirment gathering phase, and the personas and scenarios we constructed
 
 ## Maps (Home)
 <p float="left">

@@ -12,9 +12,9 @@ especially in a life or death situation that is out of your control.
 
 # User-Centered Design Artifacts
 
-* [Personas and Scenarios](personas.pdf)
-* [Wireframes](#) - Coming soon!
-* [Prototype](#) - Coming soon!
+* [Personas and Scenarios](artifacts/personas.pdf)
+* [Wireframes](artifacts/wireframes.pdf)
+* [Prototype](https://xd.adobe.com/view/d49a1b5a-8898-4a6b-a2b4-039fdb4dc615-81c9/)
 
 # Phase 1: Requirements Gathering
 
