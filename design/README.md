@@ -45,5 +45,5 @@ We’ve given our users a fairly simple way to create an account or login, which
 The account settings page is made up of three separate account settings pages, which are change account details, change password, and delete account. The change account details page allows the user to change their email, phone number, and username with a check to see if these details are valid. The user will then need to enter their password in order to confirm these changes, providing extra security for the user's data. The account deletion page is similar in design except that the user needs to enter their password twice in order to delete their account. The password reset page allows the user to change their password. In order to do so, they need to enter a code that is sent to their email. This is in order to ensure that it is the account owner that wants to change the password and add an extra step to the process so they are extra sure that they want to make this change. The user will then input their current password (as a security measure) and then type their new password into the prompt, after confirming their new password they can submit the change.
 
 ## Supplementary Materials
-[Wireframes: ](artifacts/wireframes.pdf)
-Prototype: https://xd.adobe.com/view/d49a1b5a-8898-4a6b-a2b4-039fdb4dc615-81c9/
+* [Wireframes: ](artifacts/wireframes.pdf)
+* Prototype: https://xd.adobe.com/view/d49a1b5a-8898-4a6b-a2b4-039fdb4dc615-81c9/
