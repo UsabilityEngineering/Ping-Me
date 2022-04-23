@@ -35,11 +35,12 @@ especially in a life or death situation that is out of your control.
 
 **Executive Summary**
 
-* Used user research data, along with personas and scenarios, to develop wireframes of the application which adheres to researched user design
-* From these wireframes, built a prototype draft which allows for a flow of the application to control and test functionality and efficiency for the user and their goals
-* Our user research indicated that people wanted to have full control over when and how often they share their location with others. Given this feedback, we gave users the ability to share location with specific users, toggle location sharing on and off, and letting users decide how often they want their position updated.
-* Users wanted a decent amount of information about friends' positions and the last time they updated their location. Given this, we created markers on google maps, showing location in real time with a timestamp displaying their last ping.
-* Users wanted a way to request someone's position from the application, allowing people to communicate through this function. Taking our users feedback, we implemented this as a feature, so that people can be notified by others that they want to know where they are, or share with them their location.
+* Used user research data, along with personas and scenarios, to develop **user-oriented wireframes** for the application.
+* From these wireframes, we **built a prototype** draft that allows for a flow of the application to control and test functionality and efficiency for the user and their goals.
+* Our user research indicated that people wanted to have **full control** over when and how often they share their location with others. Given this feedback, we gave users the ability to **share location with specific users**, **toggle location sharing** on and off, and let users decide how often they want their position updated.
+* Users wanted a decent amount of information about friends' positions and the last time they updated their location. Given this, we created markers on a map, **showing location in real-time** with a timestamp displaying their last updated location.
+* Users wanted a way to **request someone's position** from the application, allowing people to communicate through this function. Taking our user's feedback into consideration, we implemented this as a feature, so that people can be notified by others that they want to know where they are, or share with them their location.
+
 
 [Full phase 2 report](design/)
 
