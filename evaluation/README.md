@@ -51,7 +51,7 @@ Based off of the results collected from our users and understanding the findings
 - Group the ping frequency and automatic ping option together, where turning auto ping off allows users not to be able to interact with the ping frequency and vice versa
 
 ## Supplementary Materials
-* Prototype: https://xd.adobe.com/view/25c74f47-b859-422f-bea1-e26e3b6dfbf9-7094/
+* [Prototype](https://xd.adobe.com/view/25c74f47-b859-422f-bea1-e26e3b6dfbf9-7094/)
 * [Informed Consent](../artifacts/informed_consent.pdf)
 * [Protocol](../artifacts/protocol.pdf)
-* Collected Data: https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vR2Hvau8Z-oRDnIIxGcHEoo2BADLhNW5nizScT64l07SFiiCE2Nb7S6_bN3nMQd9imgOjz7_8Qs9GTG/pubhtml#
+* [Collected Data](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vR2Hvau8Z-oRDnIIxGcHEoo2BADLhNW5nizScT64l07SFiiCE2Nb7S6_bN3nMQd9imgOjz7_8Qs9GTG/pubhtml#)
