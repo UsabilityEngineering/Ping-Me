@@ -49,9 +49,9 @@ especially in a life or death situation that is out of your control.
 **Executive Summary**
 
 * From our **heuristic evaluation** and **cognitive walkthroughs**, we obtained important findings from our participants that will help us improve upon the design of our application
-* We found that our application has favored for having a strong **visual and aesthetic design**, as well as simple to navigate due to it's strong reliance on **external consistency and standards**
+* We found that our application has favored for having a strong **visual and aesthetic design**, as well as simple to navigate due to its strong reliance on **external consistency and standards**
 * We discovered flaws in **visibility of system status** concerning important functionality and visual cues
-* Based upon these discoveries, we decided on key features to address moving forward that will make our application easier for users to learn, and improve upon some functionality and clarifying otherwise vaugue buttons
+* Based upon these discoveries, we decided on key features to address moving forward that will make our application easier for users to learn, and improve upon some functionality and clarifying otherwise vague buttons
 * Our users also really wanted to see improvements to the markers which would make them each more distinct, as well as adding functionality for calling or messaging people through the app
 
 [Full phase 3 report](evaluation/)
