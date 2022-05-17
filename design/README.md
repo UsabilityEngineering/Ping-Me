@@ -1,5 +1,9 @@
 # Interaction Design
 
+# Phase II: Interaction Design
+Ping Me Usability Team
+Created by Adrian Arredondo and Cole Hopkins
+
 For our wireframe, we made the following pages with user design and experience in focus, delivering on our goals given to us from our results of the requirement gathering phase, and the personas and scenarios we constructed.
 
 ## Maps (Home)
