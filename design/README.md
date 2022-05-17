@@ -50,4 +50,4 @@ The account settings page is made up of three separate account settings pages, w
 
 ## Supplementary Materials
 * [Wireframes](../artifacts/wireframes.pdf)
-* Prototype: https://xd.adobe.com/view/d49a1b5a-8898-4a6b-a2b4-039fdb4dc615-81c9/
+* [Prototype](https://xd.adobe.com/view/d49a1b5a-8898-4a6b-a2b4-039fdb4dc615-81c9/)
