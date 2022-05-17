@@ -31,6 +31,6 @@ Questionnaire - Because we used Questionnaire, we were able to collect a lot of 
 - Someone who feels unsafe walking home from school alone and wants their friends and family to know where they are in case of an emergency (Julia Fernando)
 
 # Supplementary Materials
-* https://forms.gle/ZagvXCbYegLkirmR9
+* [Form](https://forms.gle/ZagvXCbYegLkirmR9)
 * [Data gathered](https://docs.google.com/spreadsheets/d/1YFynl9GU_rjEMCV1D1tb-PyEhe0kWdDxwDFGoR-4S_I/)
 
